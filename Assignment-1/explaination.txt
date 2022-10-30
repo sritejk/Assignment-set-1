@@ -1,0 +1,2 @@
+when  we login with username and password there will be transitioning occur from screenshot-1 to screenshot-2 and if we want to disconnect we have to select log out option in screenshot-3. 
+After selecting the logout option there will be a transition from sceernshot-3 to screenshot-1.
