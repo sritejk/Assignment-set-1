@@ -1,0 +1,4 @@
+To change the password we need to open the terminal and type 'passwd' command in the terminal.
+when the password is change to IneuROn#42 screenshot-1 occurs.the password is changed successfully here.
+when the password is changed to abcd screenshot-2 occurs. here password is not changed as it is less than 8 characters.
+when password is not given and just hit enter then screenshot-3 occurs.
